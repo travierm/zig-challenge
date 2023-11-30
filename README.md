@@ -11,12 +11,14 @@ Your task is to build a CLI program in Zig that does the following...
 
 Bun is used to build a `node_modules` that will be used as the test bench for the program.
 
+
 ```bash
 bun install
 ```
 
 ## Helpful Links
 https://ziglearn.org/
+
 https://ziglang.org/documentation/0.11.0/
 
 Best of luck!
